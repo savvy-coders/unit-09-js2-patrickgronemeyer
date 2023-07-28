@@ -1,0 +1,36 @@
+{
+  "name": "fullstackprepcourse-unit09-JS2",
+  "version": "1.0.0",
+  "description": "Coding exercises to accompany the Front End Prep Curriculum for Savvy Coders Full Stack Web Development Bootcamp",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savvy-coders/FS-Prep-Unit09-JS2.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "coding",
+    "bootcamp",
+    "education",
+    "training",
+    "tech",
+    "jobs",
+    "skills"
+  ],
+  "author": "David Rodriguez for Savvy Coders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savvy-coders/FS-Prep-Unit09-JS2/issues"
+  },
+  "homepage": "https://github.com/savvy-coders/FS-Prep-Unit09-JS2#readme",
+  "devDependencies": {
+    "cypress": "^12.17.2",
+    "live-server": "^1.2.2"
+  }
+}
