@@ -5,7 +5,7 @@
   "main": "index.html",
   "type": "module",
   "scripts": {
-    "test": "npx jasmine"
+    "test": "npx cypress run"
   },
   "repository": {
     "type": "git",
